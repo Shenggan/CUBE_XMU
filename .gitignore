@@ -1,0 +1,6 @@
+*.o
+*.mod
+*.x
+
+caf_config
+output
